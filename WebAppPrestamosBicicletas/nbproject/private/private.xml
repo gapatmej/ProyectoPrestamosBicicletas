@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/wamp/www/WebAppPrestamosBicicletas/Back/Util/UValidaciones.php</file>
+            <file>file:/C:/wamp/www/WebAppPrestamosBicicletas/index.php</file>
+            <file>file:/C:/wamp/www/WebAppPrestamosBicicletas/Front/Views/VLoginAdministrador.php</file>
+            <file>file:/C:/wamp/www/WebAppPrestamosBicicletas/Back/Config/Database/Conecction.php</file>
+            <file>file:/C:/wamp/www/WebAppPrestamosBicicletas/Back/Config/Database/Base.php</file>
+            <file>file:/C:/wamp/www/WebAppPrestamosBicicletas/Back/Controller/CHome.php</file>
+            <file>file:/C:/wamp/www/WebAppPrestamosBicicletas/Back/Model/MEstacion.php</file>
+            <file>file:/C:/wamp/www/WebAppPrestamosBicicletas/Front/Views/Entorno/footer.php</file>
+            <file>file:/C:/wamp/www/WebAppPrestamosBicicletas/Front/Views/Entorno/header.php</file>
+            <file>file:/C:/wamp/www/WebAppPrestamosBicicletas/Front/Views/Entorno/modalMensaje.php</file>
+            <file>file:/C:/wamp/www/WebAppPrestamosBicicletas/Front/Views/VHome.php</file>
+            <file>file:/C:/wamp/www/WebAppPrestamosBicicletas/Back/Controller/CEstaciones.php</file>
+            <file>file:/C:/wamp/www/WebAppPrestamosBicicletas/Front/Views/VAdministrarEstaciones.php</file>
+            <file>file:/C:/wamp/www/WebAppPrestamosBicicletas/Front/Views/VAdministradorUser.php</file>
+            <file>file:/C:/wamp/www/WebAppPrestamosBicicletas/Back/Entity/Estacion.php</file>
+            <file>file:/C:/wamp/www/WebAppPrestamosBicicletas/Back/Controller/CLoginAdministrador.php</file>
+            <file>file:/C:/wamp/www/WebAppPrestamosBicicletas/Back/Model/MUsuario.php</file>
+            <file>file:/C:/wamp/www/WebAppPrestamosBicicletas/Back/Config/Config.php</file>
+            <file>file:/C:/wamp/www/WebAppPrestamosBicicletas/Back/Controller/CAdministradorUser.php</file>
+        </group>
+    </open-files>
+</project-private>
